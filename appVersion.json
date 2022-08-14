@@ -1,0 +1,9 @@
+{
+    "code": 200,
+    "desc": ["操作成功"],
+    "data": {
+        "version": "1.0.0",
+        "needUpdateVersion": 1,
+        "internalUpgrade": 1,
+    }
+}
