@@ -1,6 +1,7 @@
 {
-    "code": 200,
-    "desc": ["操作成功"],
+    "code": 10000,
+    "type": "SUCCESS",
+    "message": "操作成功",
     "data": {
         "version": "1.0.0",
         "needUpdateVersion": 1,
